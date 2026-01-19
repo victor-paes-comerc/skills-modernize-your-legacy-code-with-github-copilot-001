@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 ---
 
 I want you to compile and run the COBOL application.
